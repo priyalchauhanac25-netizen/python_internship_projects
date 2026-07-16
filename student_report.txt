@@ -1,0 +1,16 @@
+
+----------- Student Report -----------
+Name: Priyal
+
+Marks:
+Subject 1: 98.0
+Subject 2: 92.0
+Subject 3: 95.0
+Subject 4: 96.0
+Subject 5: 88.0
+
+Total Marks: 469.0/500
+Percentage: 93.8%
+Grade: A+
+
+--------------------------------------
