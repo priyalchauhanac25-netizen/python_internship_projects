@@ -26,4 +26,4 @@ This repository contains projects completed during my Python Internship.
 ## Author
 
 Priyal Chauhan
-Computer Science Engineering Student
+Computer Science & Engineering Student
